@@ -35,31 +35,6 @@ The application follows a distributed architecture using Spring Boot, Node.js, R
 
 ---
 
-# 🏗 System Architecture
-
-
-      
-                    React Frontend
-                           │
-                    API Gateway
-                           │
-      ┌──────────────┬──────────────┬──────────────┐
-      │              │              │              │
- User Service   Movie Service  Booking Service  Notification Service
-      │              │              │              │
-    MySQL         MongoDB        MongoDB         SMTP
-
-
-
-Additional Services
-
-- Eureka Service Registry
-- Spring Cloud Gateway
-- Docker
-- Docker Compose
-
----
-
 # 💻 Tech Stack
 
 ## Frontend

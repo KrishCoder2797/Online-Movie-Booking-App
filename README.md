@@ -323,18 +323,21 @@ Confirmation Email
 
 
 ![Home Page](./backend/screenshots/home1.png)
+![Home Page](./backend/screenshots/home2.png)
+![Home Page](./backend/screenshots/1.Signin.png)
+![Home Page](./backend/screenshots/2.register.png)
+![Home Page](./backend/screenshots/3.adminlogin.png)
+![Home Page](./backend/screenshots/addingmovie.png)
+![Home Page](./backend/screenshots/addtheaterowner.png)
+![Home Page](./backend/screenshots/adminpannel.png)
+![Home Page](./backend/screenshots/booking.png)
+![Home Page](./backend/screenshots/owner.png)
+![Home Page](./backend/screenshots/screenmanagement.png)
+![Home Page](./backend/screenshots/screens.png)
+![Home Page](./backend/screenshots/Eureka.png)
+![Home Page](./backend/screenshots/ngrok.png)
 
-<!-- Login
 
-Movie Details
-
-Seat Selection
-
-Payment
-
-Booking Confirmation
-
-Admin Dashboard -->
 
 
 ---
